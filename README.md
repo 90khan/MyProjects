@@ -1,7 +1,7 @@
 # 📚 **Data Science Mega Repository**
 
 <p align="center">
-  <img src="BANNER_IMAGE_URL_HERE" alt="Data Science Mega Repository Banner" width="100%">
+  <img src="https://miro.medium.com/v2/resize:fit:4800/format:webp/0*JgJGHBhL8gkjYk_3.jpg" alt="Data Science Mega Repository Banner" width="100%">
 </p>
 
 <p align="center">
