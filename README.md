@@ -1,8 +1,8 @@
-# 📚 **Data Science Mega Repository**
-
-<p align="center">
-  <img src="BANNER_IMAGE_URL_HERE" alt="Data Science Mega Repository Banner" width="100%">
-</p>
+┌───────────────────────────────────────────────────────────────────────────────┐
+│                             DATA SCIENCE MEGA REPO                            │
+├───────────────────────────────────────────────────────────────────────────────┤
+│   Data Analysis • Data Visualization • Machine Learning • Deep Learning • NLP │
+└───────────────────────────────────────────────────────────────────────────────┘
 
 <p align="center">
   <img src="https://img.shields.io/badge/Category-Data%20Science-blue"> 
